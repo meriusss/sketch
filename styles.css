@@ -53,8 +53,8 @@ html, body {
 }
 
 .square {
-    height: 30px;
-    width: 30px;
+    width: 1.45em;
+    height: 1.45em;
     border: 1px solid black;
     background-color: white;
 }
