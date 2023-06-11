@@ -55,7 +55,8 @@ html, body {
 .square {
     width: 1.45em;
     height: 1.45em;
-    border: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
     background-color: white;
 }
 
